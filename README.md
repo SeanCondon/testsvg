@@ -2,6 +2,15 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.0-rc.10.
 
+It demonstrates the "Vexing SVG text with surrounding box length problem."
+
+1. Follow the prerequisites at https://docs.onosproject.org/onos-gui/docs/prerequisites/
+1. Check out from git
+1. cd in to folder
+1. run `npm install`
+1. run 'ng serve'
+1. every thing you need is in the file `src/app/app.component.ts`
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
